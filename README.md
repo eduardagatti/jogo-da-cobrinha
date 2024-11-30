@@ -17,7 +17,7 @@ Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pyg
 ## Instalação
 1. Clone o repositório
 ```bash
-git clone https://github.com/eduardagatti/jogo-da-cobrinha
+git clone https://github.com/eduardagatti/jogo-da-cobrinha.git
 cd jogo-da-cobrinha
 ```
 
@@ -47,6 +47,3 @@ Projeto desenvolvido com Pygame, utilizando conceitos de:
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-[Escolha sua licença - por exemplo, MIT]
