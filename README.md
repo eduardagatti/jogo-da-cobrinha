@@ -1,5 +1,10 @@
 # 🐍 Snake Game em Python com Pygame
 
+## Demonstração
+[![Demonstração do Jogo da Cobrinha](https://img.youtube.com/vi/Z5K3CmKSOlU/maxresdefault.jpg)](https://youtu.be/Z5K3CmKSOlU)
+
+*Clique na imagem para assistir o vídeo*
+
 ## Descrição
 Um jogo clássico da cobrinha desenvolvido em Python utilizando a biblioteca Pygame. O jogo oferece uma experiência nostálgica com elementos de menu, pontuação e sistema de recordes.
 
